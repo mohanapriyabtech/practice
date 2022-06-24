@@ -1,0 +1,16 @@
+{
+  "name": "mocha-and-chai-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
