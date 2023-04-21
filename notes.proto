@@ -8,6 +8,7 @@ message NoteRequestId {
   string id = 1;
 }
 message Empty {}
+
 message Note {
    string id = 1;
    string title = 2;

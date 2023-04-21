@@ -6,8 +6,6 @@ const notes = [
 ]
 const server = new grpc.Server()
 
-
-
 const uuidv1 = require('uuid/v1');
 
 server.addService(notesProto.NoteService.service, {
