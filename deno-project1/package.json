@@ -1,0 +1,12 @@
+{
+  "name": "deno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "deno run --stable --allow-env --allow-sys main.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
