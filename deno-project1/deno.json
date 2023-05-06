@@ -1,5 +1,0 @@
-{
-    "tasks": {
-      "dev": "deno run -A --unstable demo.js"
-    }
-  }
